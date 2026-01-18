@@ -45,9 +45,6 @@ etl-beverage-sales/
 │   ├── validation_query.sql
 │   ├── create_view.sql
 │   └── analysis_query.sql
-├── data/
-│   └── raw/
-│       └── beverage_sales.csv
 ├── config/
 │   └── db_config.py
 ├── main.py
