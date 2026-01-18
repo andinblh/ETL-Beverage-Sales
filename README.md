@@ -1,8 +1,7 @@
 # Beverage Sales ETL Pipeline
 
-## Deskripsi Singkat
-Project ini merupakan pipeline ETL (Extract, Transform, Load) untuk mengolah data penjualan minuman dari file CSV ke dalam database PostgreSQL.  
-Data yang telah diproses kemudian disajikan melalui SQL View agar siap digunakan untuk analisis penjualan.
+## Deskripsi
+Project ini merupakan pipeline ETL (Extract, Transform, Load) untuk mengolah data penjualan minuman dari file CSV ke dalam database PostgreSQL. Data yang telah diproses kemudian disajikan melalui SQL View agar siap digunakan untuk analisis penjualan.
 
 ---
 
